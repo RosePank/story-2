@@ -1,2 +1,2 @@
 2
-html boiler plate added!
+boiler plate added
